@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>2000</width>
+    <height>1000</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,10 +17,10 @@
    <widget class="QPushButton" name="browse_button">
     <property name="geometry">
      <rect>
-      <x>138</x>
-      <y>470</y>
-      <width>131</width>
-      <height>25</height>
+      <x>518</x>
+      <y>628</y>
+      <width>250</width>
+      <height>75</height>
      </rect>
     </property>
     <property name="text">
@@ -30,10 +30,10 @@
    <widget class="QPushButton" name="toggle_cam_button">
     <property name="geometry">
      <rect>
-      <x>488</x>
-      <y>470</y>
-      <width>111</width>
-      <height>25</height>
+      <x>1228</x>
+      <y>626</y>
+      <width>250</width>
+      <height>75</height>
      </rect>
     </property>
     <property name="text">
@@ -43,27 +43,27 @@
    <widget class="QLabel" name="template_label">
     <property name="geometry">
      <rect>
-      <x>130</x>
-      <y>160</y>
+      <x>482</x>
+      <y>184</y>
       <width>320</width>
       <height>240</height>
      </rect>
     </property>
     <property name="text">
-     <string>TextLabel</string>
+     <string/>
     </property>
    </widget>
    <widget class="QLabel" name="live_image_label">
     <property name="geometry">
      <rect>
-      <x>460</x>
-      <y>160</y>
-      <width>320</width>
+      <x>1058</x>
+      <y>202</y>
+      <width>600</width>
       <height>240</height>
      </rect>
     </property>
     <property name="text">
-     <string>TextLabel</string>
+     <string/>
     </property>
    </widget>
   </widget>
@@ -72,7 +72,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>2000</width>
      <height>22</height>
     </rect>
    </property>
